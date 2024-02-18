@@ -12,7 +12,7 @@ public class Stuff {
 
     ArrayList<String> closet = new ArrayList<String>();
 
-    public void addClothes(String newClothingItem) // method to add books to the array
+    public void addClothes(String newClothingItem) // way to add clothes
     {
         this.closet.add(newClothingItem);
     }
